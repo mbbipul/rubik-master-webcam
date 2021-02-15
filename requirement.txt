@@ -1,0 +1,6 @@
+opencv
+opencv-contrib-python
+numpy
+imutils
+rubik_solver
+picamera
